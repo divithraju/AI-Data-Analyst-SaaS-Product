@@ -130,26 +130,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots / Demo
-
-> 📌 Add the following before applying for jobs:
-
-* 📷 Screenshots of UI & API response
-* 🎥 1–2 minute Loom / YouTube demo video
-
-Example:
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
-Live Demo (optional):
-
-```
-https://your-demo-link.com
-```
-
----
 
 ## 👨‍💻 My Individual Contributions
 
